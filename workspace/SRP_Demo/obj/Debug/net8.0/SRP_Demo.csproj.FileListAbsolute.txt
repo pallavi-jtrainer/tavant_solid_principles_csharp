@@ -1,0 +1,15 @@
+E:\trainings\skillbridge\tavant\c#\workspace\SRP_Demo\bin\Debug\net8.0\SRP_Demo.exe
+E:\trainings\skillbridge\tavant\c#\workspace\SRP_Demo\bin\Debug\net8.0\SRP_Demo.deps.json
+E:\trainings\skillbridge\tavant\c#\workspace\SRP_Demo\bin\Debug\net8.0\SRP_Demo.runtimeconfig.json
+E:\trainings\skillbridge\tavant\c#\workspace\SRP_Demo\bin\Debug\net8.0\SRP_Demo.dll
+E:\trainings\skillbridge\tavant\c#\workspace\SRP_Demo\bin\Debug\net8.0\SRP_Demo.pdb
+E:\trainings\skillbridge\tavant\c#\workspace\SRP_Demo\obj\Debug\net8.0\SRP_Demo.GeneratedMSBuildEditorConfig.editorconfig
+E:\trainings\skillbridge\tavant\c#\workspace\SRP_Demo\obj\Debug\net8.0\SRP_Demo.AssemblyInfoInputs.cache
+E:\trainings\skillbridge\tavant\c#\workspace\SRP_Demo\obj\Debug\net8.0\SRP_Demo.AssemblyInfo.cs
+E:\trainings\skillbridge\tavant\c#\workspace\SRP_Demo\obj\Debug\net8.0\SRP_Demo.csproj.CoreCompileInputs.cache
+E:\trainings\skillbridge\tavant\c#\workspace\SRP_Demo\obj\Debug\net8.0\SRP_Demo.sourcelink.json
+E:\trainings\skillbridge\tavant\c#\workspace\SRP_Demo\obj\Debug\net8.0\SRP_Demo.dll
+E:\trainings\skillbridge\tavant\c#\workspace\SRP_Demo\obj\Debug\net8.0\refint\SRP_Demo.dll
+E:\trainings\skillbridge\tavant\c#\workspace\SRP_Demo\obj\Debug\net8.0\SRP_Demo.pdb
+E:\trainings\skillbridge\tavant\c#\workspace\SRP_Demo\obj\Debug\net8.0\SRP_Demo.genruntimeconfig.cache
+E:\trainings\skillbridge\tavant\c#\workspace\SRP_Demo\obj\Debug\net8.0\ref\SRP_Demo.dll

@@ -1,0 +1,39 @@
+Day 1
+OOP 
+-> made software design more modular, reusable, aligned with real - world entities
+
+SOLID Principles:
+5 specific design guidelines
+1. Single Responsibility
+2. Open - Closed
+3. Liskov Substitution
+4. Interface Segregation
+5. Dependency Inversion
+
+-----------------------
+OOP + SOLID = avoid code smells and technical debt
+
+Technical Debt
+1. intentional
+2. unintentional
+3. bit rot
+
+---------------------------------------------------------
+1. Duplicate Code  -> Donot Repeat Yourself(DRY)
+2. God Class -> SRP 
+3. Comment smell -> Clean code naming -> Cohesion
+4. Logic in the wrong class (Feature Envy)
+
+--------------------------------------------------------
+Single Responsibility Principle:
+-> each class, method, module should do only one work and should do it perfectly
+------------------------------------------------------------
+Case Study Requirements:
+1. Member can borrow a book based on its availability
+2. A book can be added provided the isbn is unique
+3. book status has to be updated based on whether it is borrowed or returned
+4. due date should be 7 days from the date of loan
+5. loan amount has to be calculated based on Rs.20 per extra day
+6. Member can only borrow one book at a time
+
+

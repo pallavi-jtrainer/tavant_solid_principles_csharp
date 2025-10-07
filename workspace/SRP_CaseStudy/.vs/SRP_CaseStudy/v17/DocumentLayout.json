@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "E:\\trainings\\skillbridge\\tavant\\c#\\workspace\\SRP_CaseStudy\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{FE1E1CAF-441E-4DED-8A0D-D695F3AD6AF7}|SRP_CaseStudy.csproj|e:\\trainings\\skillbridge\\tavant\\c#\\workspace\\srp_casestudy\\services\\latefeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE1E1CAF-441E-4DED-8A0D-D695F3AD6AF7}|SRP_CaseStudy.csproj|solutionrelative:services\\latefeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{FE1E1CAF-441E-4DED-8A0D-D695F3AD6AF7}|SRP_CaseStudy.csproj|e:\\trainings\\skillbridge\\tavant\\c#\\workspace\\srp_casestudy\\services\\loanservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FE1E1CAF-441E-4DED-8A0D-D695F3AD6AF7}|SRP_CaseStudy.csproj|solutionrelative:services\\loanservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -78,11 +82,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
+              "Title": "LateFeeService.cs",
+              "DocumentMoniker": "E:\\trainings\\skillbridge\\tavant\\c#\\workspace\\SRP_CaseStudy\\Services\\LateFeeService.cs",
+              "RelativeDocumentMoniker": "Services\\LateFeeService.cs",
+              "ToolTip": "E:\\trainings\\skillbridge\\tavant\\c#\\workspace\\SRP_CaseStudy\\Services\\LateFeeService.cs",
+              "RelativeToolTip": "Services\\LateFeeService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T10:39:30.845Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "SmsNotificationService.cs",
               "DocumentMoniker": "E:\\trainings\\skillbridge\\tavant\\c#\\workspace\\SRP_CaseStudy\\Services\\Notifications\\SmsNotificationService.cs",
               "RelativeDocumentMoniker": "Services\\Notifications\\SmsNotificationService.cs",
@@ -90,12 +107,11 @@
               "RelativeToolTip": "Services\\Notifications\\SmsNotificationService.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAAAAABMAAABEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-07T10:16:11.516Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-07T10:16:11.516Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "EmailNotificationService.cs",
               "DocumentMoniker": "E:\\trainings\\skillbridge\\tavant\\c#\\workspace\\SRP_CaseStudy\\Services\\Notifications\\EmailNotificationService.cs",
               "RelativeDocumentMoniker": "Services\\Notifications\\EmailNotificationService.cs",
@@ -103,12 +119,11 @@
               "RelativeToolTip": "Services\\Notifications\\EmailNotificationService.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-07T10:14:55.19Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-07T10:14:55.19Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "INotificationService.cs",
               "DocumentMoniker": "E:\\trainings\\skillbridge\\tavant\\c#\\workspace\\SRP_CaseStudy\\Services\\Notifications\\INotificationService.cs",
               "RelativeDocumentMoniker": "Services\\Notifications\\INotificationService.cs",
@@ -116,12 +131,11 @@
               "RelativeToolTip": "Services\\Notifications\\INotificationService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA+AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-07T10:11:34.602Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-07T10:11:34.602Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "NotificationService.cs",
               "DocumentMoniker": "E:\\trainings\\skillbridge\\tavant\\c#\\workspace\\SRP_CaseStudy\\Services\\NotificationService.cs",
               "RelativeDocumentMoniker": "Services\\NotificationService.cs",
@@ -129,12 +143,11 @@
               "RelativeToolTip": "Services\\NotificationService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-07T10:09:52.379Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-07T10:09:52.379Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "LoanRepositoryImpl.cs",
               "DocumentMoniker": "E:\\trainings\\skillbridge\\tavant\\c#\\workspace\\SRP_CaseStudy\\Repositories\\LoanRepositoryImpl.cs",
               "RelativeDocumentMoniker": "Repositories\\LoanRepositoryImpl.cs",
@@ -146,20 +159,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "LoanService.cs",
               "DocumentMoniker": "E:\\trainings\\skillbridge\\tavant\\c#\\workspace\\SRP_CaseStudy\\Services\\LoanService.cs",
               "RelativeDocumentMoniker": "Services\\LoanService.cs",
               "ToolTip": "E:\\trainings\\skillbridge\\tavant\\c#\\workspace\\SRP_CaseStudy\\Services\\LoanService.cs",
               "RelativeToolTip": "Services\\LoanService.cs",
-              "ViewState": "AgIAADUAAAAAAAAAAAAgwEsAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAYwEsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-07T08:38:47.267Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\trainings\\skillbridge\\tavant\\c#\\workspace\\SRP_CaseStudy\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -167,12 +180,11 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAA4AAAAAAAAAAAAQwBMAAABSAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-06T10:25:55.259Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-06T10:25:55.259Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "MemberService.cs",
               "DocumentMoniker": "E:\\trainings\\skillbridge\\tavant\\c#\\workspace\\SRP_CaseStudy\\Services\\MemberService.cs",
               "RelativeDocumentMoniker": "Services\\MemberService.cs",
@@ -184,7 +196,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "MemberRepositoryImpl.cs",
               "DocumentMoniker": "E:\\trainings\\skillbridge\\tavant\\c#\\workspace\\SRP_CaseStudy\\Repositories\\MemberRepositoryImpl.cs",
               "RelativeDocumentMoniker": "Repositories\\MemberRepositoryImpl.cs",
@@ -196,7 +208,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "ILoanRepository.cs",
               "DocumentMoniker": "E:\\trainings\\skillbridge\\tavant\\c#\\workspace\\SRP_CaseStudy\\Repositories\\ILoanRepository.cs",
               "RelativeDocumentMoniker": "Repositories\\ILoanRepository.cs",
@@ -208,7 +220,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Member.cs",
               "DocumentMoniker": "E:\\trainings\\skillbridge\\tavant\\c#\\workspace\\SRP_CaseStudy\\Entities\\Member.cs",
               "RelativeDocumentMoniker": "Entities\\Member.cs",
@@ -216,12 +228,11 @@
               "RelativeToolTip": "Entities\\Member.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-06T10:29:28.692Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-06T10:29:28.692Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "BookRepositoryImpl.cs",
               "DocumentMoniker": "E:\\trainings\\skillbridge\\tavant\\c#\\workspace\\SRP_CaseStudy\\Repositories\\BookRepositoryImpl.cs",
               "RelativeDocumentMoniker": "Repositories\\BookRepositoryImpl.cs",
@@ -233,7 +244,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "IMemberRepository.cs",
               "DocumentMoniker": "E:\\trainings\\skillbridge\\tavant\\c#\\workspace\\SRP_CaseStudy\\Repositories\\IMemberRepository.cs",
               "RelativeDocumentMoniker": "Repositories\\IMemberRepository.cs",
@@ -245,7 +256,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "BookService.cs",
               "DocumentMoniker": "E:\\trainings\\skillbridge\\tavant\\c#\\workspace\\SRP_CaseStudy\\Services\\BookService.cs",
               "RelativeDocumentMoniker": "Services\\BookService.cs",
@@ -257,7 +268,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "IBookRepository.cs",
               "DocumentMoniker": "E:\\trainings\\skillbridge\\tavant\\c#\\workspace\\SRP_CaseStudy\\Repositories\\IBookRepository.cs",
               "RelativeDocumentMoniker": "Repositories\\IBookRepository.cs",
@@ -269,7 +280,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "Loan.cs",
               "DocumentMoniker": "E:\\trainings\\skillbridge\\tavant\\c#\\workspace\\SRP_CaseStudy\\Entities\\Loan.cs",
               "RelativeDocumentMoniker": "Entities\\Loan.cs",
@@ -281,7 +292,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "Book.cs",
               "DocumentMoniker": "E:\\trainings\\skillbridge\\tavant\\c#\\workspace\\SRP_CaseStudy\\Entities\\Book.cs",
               "RelativeDocumentMoniker": "Entities\\Book.cs",

@@ -1,5 +1,6 @@
 ﻿using SRP_Demo.entities;
 using SRP_Demo.repository;
+using SRP_Demo.services.discount;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -26,8 +27,18 @@ namespace SRP_Demo.services
 
         public void ProcessOrder(Order order)
         {
+            double discountAmt = 0;
+
+            foreach (var p in order.products) {
+                var cat = DiscountFactory.GetDiscountStrategy(p.Category);
+
+                double discount = cat.ApplyDiscount(p);
+
+                discountAmt += discount;
+
+            }
             double sum = _orderCalculator.CalculateOrderTotal(order);
-            order.total = sum;
+            order.total = sum - discountAmt;
             _validator.Validate(order);
             _orderRepository.Save(order);
             _emailService.SendEmail(order.customerEmail, $"Order #{order.Id} Confirmed");

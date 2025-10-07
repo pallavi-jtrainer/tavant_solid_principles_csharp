@@ -74,8 +74,7 @@
               "RelativeToolTip": "Services\\LoanService.cs",
               "ViewState": "AgIAAAUAAAAAAAAAAAAmwEIAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-07T08:38:47.267Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-07T08:38:47.267Z"
             },
             {
               "$type": "Document",
@@ -87,8 +86,7 @@
               "RelativeToolTip": "Services\\MemberService.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-07T08:33:16.473Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-07T08:33:16.473Z"
             },
             {
               "$type": "Document",
@@ -100,8 +98,7 @@
               "RelativeToolTip": "Repositories\\LoanRepositoryImpl.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-07T08:28:09.507Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-07T08:28:09.507Z"
             },
             {
               "$type": "Document",
@@ -113,8 +110,7 @@
               "RelativeToolTip": "Repositories\\MemberRepositoryImpl.cs",
               "ViewState": "AgIAAAUAAAAAAAAAAAAqwBcAAABTAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-07T08:22:06.028Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-07T08:22:06.028Z"
             },
             {
               "$type": "Document",
@@ -126,8 +122,7 @@
               "RelativeToolTip": "Repositories\\ILoanRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-06T10:36:02.688Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-06T10:36:02.688Z"
             },
             {
               "$type": "Document",
@@ -139,8 +134,7 @@
               "RelativeToolTip": "Repositories\\BookRepositoryImpl.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAuwBwAAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-06T10:37:40.04Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-06T10:37:40.04Z"
             },
             {
               "$type": "Document",
@@ -165,8 +159,7 @@
               "RelativeToolTip": "Repositories\\IMemberRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-06T10:34:59.299Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-06T10:34:59.299Z"
             },
             {
               "$type": "Document",
@@ -178,8 +171,7 @@
               "RelativeToolTip": "Services\\BookService.cs",
               "ViewState": "AgIAABkAAAAAAAAAAAAqwCUAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-06T10:44:36.091Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-06T10:44:36.091Z"
             },
             {
               "$type": "Document",
@@ -191,8 +183,7 @@
               "RelativeToolTip": "Repositories\\IBookRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-06T10:33:19.833Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-06T10:33:19.833Z"
             },
             {
               "$type": "Document",

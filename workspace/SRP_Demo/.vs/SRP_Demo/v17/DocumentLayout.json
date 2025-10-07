@@ -7,16 +7,40 @@
       "RelativeMoniker": "D:0:0:{8C168571-D247-458E-A51D-3FAFF95C5987}|SRP_Demo.csproj|solutionrelative:services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8C168571-D247-458E-A51D-3FAFF95C5987}|SRP_Demo.csproj|e:\\trainings\\skillbridge\\tavant\\c#\\workspace\\srp_demo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8C168571-D247-458E-A51D-3FAFF95C5987}|SRP_Demo.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8C168571-D247-458E-A51D-3FAFF95C5987}|SRP_Demo.csproj|e:\\trainings\\skillbridge\\tavant\\c#\\workspace\\srp_demo\\services\\discount\\discountfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C168571-D247-458E-A51D-3FAFF95C5987}|SRP_Demo.csproj|solutionrelative:services\\discount\\discountfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C168571-D247-458E-A51D-3FAFF95C5987}|SRP_Demo.csproj|e:\\trainings\\skillbridge\\tavant\\c#\\workspace\\srp_demo\\services\\discount\\electronicsdiscount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C168571-D247-458E-A51D-3FAFF95C5987}|SRP_Demo.csproj|solutionrelative:services\\discount\\electronicsdiscount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C168571-D247-458E-A51D-3FAFF95C5987}|SRP_Demo.csproj|e:\\trainings\\skillbridge\\tavant\\c#\\workspace\\srp_demo\\services\\discount\\nodiscount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C168571-D247-458E-A51D-3FAFF95C5987}|SRP_Demo.csproj|solutionrelative:services\\discount\\nodiscount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C168571-D247-458E-A51D-3FAFF95C5987}|SRP_Demo.csproj|e:\\trainings\\skillbridge\\tavant\\c#\\workspace\\srp_demo\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C168571-D247-458E-A51D-3FAFF95C5987}|SRP_Demo.csproj|solutionrelative:entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8C168571-D247-458E-A51D-3FAFF95C5987}|SRP_Demo.csproj|e:\\trainings\\skillbridge\\tavant\\c#\\workspace\\srp_demo\\services\\ordercalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8C168571-D247-458E-A51D-3FAFF95C5987}|SRP_Demo.csproj|solutionrelative:services\\ordercalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{8C168571-D247-458E-A51D-3FAFF95C5987}|SRP_Demo.csproj|e:\\trainings\\skillbridge\\tavant\\c#\\workspace\\srp_demo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C168571-D247-458E-A51D-3FAFF95C5987}|SRP_Demo.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{8C168571-D247-458E-A51D-3FAFF95C5987}|SRP_Demo.csproj|e:\\trainings\\skillbridge\\tavant\\c#\\workspace\\srp_demo\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8C168571-D247-458E-A51D-3FAFF95C5987}|SRP_Demo.csproj|solutionrelative:entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C168571-D247-458E-A51D-3FAFF95C5987}|SRP_Demo.csproj|e:\\trainings\\skillbridge\\tavant\\c#\\workspace\\srp_demo\\services\\discount\\stationarydiscount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C168571-D247-458E-A51D-3FAFF95C5987}|SRP_Demo.csproj|solutionrelative:services\\discount\\stationarydiscount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C168571-D247-458E-A51D-3FAFF95C5987}|SRP_Demo.csproj|e:\\trainings\\skillbridge\\tavant\\c#\\workspace\\srp_demo\\services\\discount\\idiscountstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C168571-D247-458E-A51D-3FAFF95C5987}|SRP_Demo.csproj|solutionrelative:services\\discount\\idiscountstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8C168571-D247-458E-A51D-3FAFF95C5987}|SRP_Demo.csproj|e:\\trainings\\skillbridge\\tavant\\c#\\workspace\\srp_demo\\services\\ordervalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -25,10 +49,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{8C168571-D247-458E-A51D-3FAFF95C5987}|SRP_Demo.csproj|e:\\trainings\\skillbridge\\tavant\\c#\\workspace\\srp_demo\\repository\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8C168571-D247-458E-A51D-3FAFF95C5987}|SRP_Demo.csproj|solutionrelative:repository\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8C168571-D247-458E-A51D-3FAFF95C5987}|SRP_Demo.csproj|e:\\trainings\\skillbridge\\tavant\\c#\\workspace\\srp_demo\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8C168571-D247-458E-A51D-3FAFF95C5987}|SRP_Demo.csproj|solutionrelative:entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8C168571-D247-458E-A51D-3FAFF95C5987}|SRP_Demo.csproj|e:\\trainings\\skillbridge\\tavant\\c#\\workspace\\srp_demo\\services\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -46,31 +66,137 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "OrderCalculator.cs",
-              "DocumentMoniker": "E:\\trainings\\skillbridge\\tavant\\c#\\workspace\\SRP_Demo\\services\\OrderCalculator.cs",
-              "RelativeDocumentMoniker": "services\\OrderCalculator.cs",
-              "ToolTip": "E:\\trainings\\skillbridge\\tavant\\c#\\workspace\\SRP_Demo\\services\\OrderCalculator.cs",
-              "RelativeToolTip": "services\\OrderCalculator.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAASAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "NoDiscount.cs",
+              "DocumentMoniker": "E:\\trainings\\skillbridge\\tavant\\c#\\workspace\\SRP_Demo\\services\\discount\\NoDiscount.cs",
+              "RelativeDocumentMoniker": "services\\discount\\NoDiscount.cs",
+              "ToolTip": "E:\\trainings\\skillbridge\\tavant\\c#\\workspace\\SRP_Demo\\services\\discount\\NoDiscount.cs",
+              "RelativeToolTip": "services\\discount\\NoDiscount.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-06T09:58:00.211Z"
+              "WhenOpened": "2025-10-07T09:12:21.182Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
+              "Title": "DiscountFactory.cs",
+              "DocumentMoniker": "E:\\trainings\\skillbridge\\tavant\\c#\\workspace\\SRP_Demo\\services\\discount\\DiscountFactory.cs",
+              "RelativeDocumentMoniker": "services\\discount\\DiscountFactory.cs",
+              "ToolTip": "E:\\trainings\\skillbridge\\tavant\\c#\\workspace\\SRP_Demo\\services\\discount\\DiscountFactory.cs",
+              "RelativeToolTip": "services\\discount\\DiscountFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T09:10:14.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "StationaryDiscount.cs",
+              "DocumentMoniker": "E:\\trainings\\skillbridge\\tavant\\c#\\workspace\\SRP_Demo\\services\\discount\\StationaryDiscount.cs",
+              "RelativeDocumentMoniker": "services\\discount\\StationaryDiscount.cs",
+              "ToolTip": "E:\\trainings\\skillbridge\\tavant\\c#\\workspace\\SRP_Demo\\services\\discount\\StationaryDiscount.cs",
+              "RelativeToolTip": "services\\discount\\StationaryDiscount.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T08:57:19.972Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ElectronicsDiscount.cs",
+              "DocumentMoniker": "E:\\trainings\\skillbridge\\tavant\\c#\\workspace\\SRP_Demo\\services\\discount\\ElectronicsDiscount.cs",
+              "RelativeDocumentMoniker": "services\\discount\\ElectronicsDiscount.cs",
+              "ToolTip": "E:\\trainings\\skillbridge\\tavant\\c#\\workspace\\SRP_Demo\\services\\discount\\ElectronicsDiscount.cs",
+              "RelativeToolTip": "services\\discount\\ElectronicsDiscount.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T08:55:57.462Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "Product.cs",
               "DocumentMoniker": "E:\\trainings\\skillbridge\\tavant\\c#\\workspace\\SRP_Demo\\entities\\Product.cs",
               "RelativeDocumentMoniker": "entities\\Product.cs",
               "ToolTip": "E:\\trainings\\skillbridge\\tavant\\c#\\workspace\\SRP_Demo\\entities\\Product.cs",
               "RelativeToolTip": "entities\\Product.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAjAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-06T09:55:34.041Z"
+              "WhenOpened": "2025-10-06T09:55:34.041Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\trainings\\skillbridge\\tavant\\c#\\workspace\\SRP_Demo\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "E:\\trainings\\skillbridge\\tavant\\c#\\workspace\\SRP_Demo\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwBUAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T08:27:55.335Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OrderService.cs",
+              "DocumentMoniker": "E:\\trainings\\skillbridge\\tavant\\c#\\workspace\\SRP_Demo\\services\\OrderService.cs",
+              "RelativeDocumentMoniker": "services\\OrderService.cs",
+              "ToolTip": "E:\\trainings\\skillbridge\\tavant\\c#\\workspace\\SRP_Demo\\services\\OrderService.cs",
+              "RelativeToolTip": "services\\OrderService.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAQwCIAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T09:17:28.233Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OrderCalculator.cs",
+              "DocumentMoniker": "E:\\trainings\\skillbridge\\tavant\\c#\\workspace\\SRP_Demo\\services\\OrderCalculator.cs",
+              "RelativeDocumentMoniker": "services\\OrderCalculator.cs",
+              "ToolTip": "E:\\trainings\\skillbridge\\tavant\\c#\\workspace\\SRP_Demo\\services\\OrderCalculator.cs",
+              "RelativeToolTip": "services\\OrderCalculator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T09:58:00.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Order.cs",
+              "DocumentMoniker": "E:\\trainings\\skillbridge\\tavant\\c#\\workspace\\SRP_Demo\\entities\\Order.cs",
+              "RelativeDocumentMoniker": "entities\\Order.cs",
+              "ToolTip": "E:\\trainings\\skillbridge\\tavant\\c#\\workspace\\SRP_Demo\\entities\\Order.cs",
+              "RelativeToolTip": "entities\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T09:33:18.018Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IDiscountStrategy.cs",
+              "DocumentMoniker": "E:\\trainings\\skillbridge\\tavant\\c#\\workspace\\SRP_Demo\\services\\discount\\IDiscountStrategy.cs",
+              "RelativeDocumentMoniker": "services\\discount\\IDiscountStrategy.cs",
+              "ToolTip": "E:\\trainings\\skillbridge\\tavant\\c#\\workspace\\SRP_Demo\\services\\discount\\IDiscountStrategy.cs",
+              "RelativeToolTip": "services\\discount\\IDiscountStrategy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T08:54:59.346Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "EmailService.cs",
               "DocumentMoniker": "E:\\trainings\\skillbridge\\tavant\\c#\\workspace\\SRP_Demo\\services\\EmailService.cs",
               "RelativeDocumentMoniker": "services\\EmailService.cs",
@@ -82,7 +208,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 11,
               "Title": "OrderRepository.cs",
               "DocumentMoniker": "E:\\trainings\\skillbridge\\tavant\\c#\\workspace\\SRP_Demo\\repository\\OrderRepository.cs",
               "RelativeDocumentMoniker": "repository\\OrderRepository.cs",
@@ -94,7 +220,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 10,
               "Title": "OrderValidator.cs",
               "DocumentMoniker": "E:\\trainings\\skillbridge\\tavant\\c#\\workspace\\SRP_Demo\\services\\OrderValidator.cs",
               "RelativeDocumentMoniker": "services\\OrderValidator.cs",
@@ -103,43 +229,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-06T09:40:49.854Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Order.cs",
-              "DocumentMoniker": "E:\\trainings\\skillbridge\\tavant\\c#\\workspace\\SRP_Demo\\entities\\Order.cs",
-              "RelativeDocumentMoniker": "entities\\Order.cs",
-              "ToolTip": "E:\\trainings\\skillbridge\\tavant\\c#\\workspace\\SRP_Demo\\entities\\Order.cs",
-              "RelativeToolTip": "entities\\Order.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-06T09:33:18.018Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "OrderService.cs",
-              "DocumentMoniker": "E:\\trainings\\skillbridge\\tavant\\c#\\workspace\\SRP_Demo\\services\\OrderService.cs",
-              "RelativeDocumentMoniker": "services\\OrderService.cs",
-              "ToolTip": "E:\\trainings\\skillbridge\\tavant\\c#\\workspace\\SRP_Demo\\services\\OrderService.cs",
-              "RelativeToolTip": "services\\OrderService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-06T09:17:28.233Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "E:\\trainings\\skillbridge\\tavant\\c#\\workspace\\SRP_Demo\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "E:\\trainings\\skillbridge\\tavant\\c#\\workspace\\SRP_Demo\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAxwA8AAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-06T08:27:55.335Z"
             }
           ]
         }

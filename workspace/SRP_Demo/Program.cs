@@ -8,8 +8,8 @@ class Program {
     static void Main() {
         var products = new List<Product>()
         {
-            new Product { Name = "Mouse", Description = "Wired Mouse", Price = 2300},
-            new Product { Name = "Mouse", Description = "Wireless Mouse", Price = 2500}
+            new Product { Name = "Laptop", Category="Electronics", Price = 2300},
+            new Product { Name = "Book", Category = "Stationary", Price = 2500}
         };
 
         var order = new Order

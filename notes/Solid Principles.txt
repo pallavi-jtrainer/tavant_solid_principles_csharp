@@ -35,5 +35,24 @@ Case Study Requirements:
 4. due date should be 7 days from the date of loan
 5. loan amount has to be calculated based on Rs.20 per extra day
 6. Member can only borrow one book at a time
+______________________________________________________________________________________________
+
+Day 2:
+OCP
+-> Open Closed Principle
+
+Hands On:
+1. Add a quantity property to Order
+2. refactor the order calculator and order validator and the discount associated classes to handle the quantity
+3. Add a new category for discount -> Furniture
+4. Update wherever necessary
+5. Incorporate Composite Discounts 
+
+For the case study 
+1. add NotificationFactory and refactor the services
+2. Add a SlackNotificationService
+3. Add a Premium Member. provide for reward points
+
+
 
 

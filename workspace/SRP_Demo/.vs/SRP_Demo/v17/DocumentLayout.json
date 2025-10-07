@@ -54,8 +54,7 @@
               "RelativeToolTip": "services\\OrderCalculator.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-06T09:58:00.211Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-06T09:58:00.211Z"
             },
             {
               "$type": "Document",
@@ -67,8 +66,7 @@
               "RelativeToolTip": "entities\\Product.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-06T09:55:34.041Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-06T09:55:34.041Z"
             },
             {
               "$type": "Document",
@@ -80,8 +78,7 @@
               "RelativeToolTip": "services\\EmailService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-06T09:44:15.439Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-06T09:44:15.439Z"
             },
             {
               "$type": "Document",
@@ -93,8 +90,7 @@
               "RelativeToolTip": "repository\\OrderRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-06T09:42:45.226Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-06T09:42:45.226Z"
             },
             {
               "$type": "Document",
@@ -106,8 +102,7 @@
               "RelativeToolTip": "services\\OrderValidator.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-06T09:40:49.854Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-06T09:40:49.854Z"
             },
             {
               "$type": "Document",
@@ -119,8 +114,7 @@
               "RelativeToolTip": "entities\\Order.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-06T09:33:18.018Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-06T09:33:18.018Z"
             },
             {
               "$type": "Document",
@@ -130,7 +124,7 @@
               "RelativeDocumentMoniker": "services\\OrderService.cs",
               "ToolTip": "E:\\trainings\\skillbridge\\tavant\\c#\\workspace\\SRP_Demo\\services\\OrderService.cs",
               "RelativeToolTip": "services\\OrderService.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAAwBEAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-06T09:17:28.233Z",
               "EditorCaption": ""
@@ -145,8 +139,7 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAUAAAAAAAAAAAAxwA8AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-06T08:27:55.335Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-06T08:27:55.335Z"
             }
           ]
         }

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SRP_CaseStudy")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3551d6a095a4caca8e090c6cc3ed4812062382e2")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9870a913a9bd3e33d143bcbeff5b01bbfda8b713")]
 [assembly: System.Reflection.AssemblyProductAttribute("SRP_CaseStudy")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SRP_CaseStudy")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

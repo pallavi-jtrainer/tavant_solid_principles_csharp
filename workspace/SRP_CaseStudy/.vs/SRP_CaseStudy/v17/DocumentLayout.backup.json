@@ -3,6 +3,42 @@
   "WorkspaceRootPath": "E:\\trainings\\skillbridge\\tavant\\c#\\workspace\\SRP_CaseStudy\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{FE1E1CAF-441E-4DED-8A0D-D695F3AD6AF7}|SRP_CaseStudy.csproj|e:\\trainings\\skillbridge\\tavant\\c#\\workspace\\srp_casestudy\\services\\notificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE1E1CAF-441E-4DED-8A0D-D695F3AD6AF7}|SRP_CaseStudy.csproj|solutionrelative:services\\notificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE1E1CAF-441E-4DED-8A0D-D695F3AD6AF7}|SRP_CaseStudy.csproj|e:\\trainings\\skillbridge\\tavant\\c#\\workspace\\srp_casestudy\\services\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE1E1CAF-441E-4DED-8A0D-D695F3AD6AF7}|SRP_CaseStudy.csproj|solutionrelative:services\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE1E1CAF-441E-4DED-8A0D-D695F3AD6AF7}|SRP_CaseStudy.csproj|e:\\trainings\\skillbridge\\tavant\\c#\\workspace\\srp_casestudy\\repositories\\bookrepositoryimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE1E1CAF-441E-4DED-8A0D-D695F3AD6AF7}|SRP_CaseStudy.csproj|solutionrelative:repositories\\bookrepositoryimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE1E1CAF-441E-4DED-8A0D-D695F3AD6AF7}|SRP_CaseStudy.csproj|e:\\trainings\\skillbridge\\tavant\\c#\\workspace\\srp_casestudy\\repositories\\ibookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE1E1CAF-441E-4DED-8A0D-D695F3AD6AF7}|SRP_CaseStudy.csproj|solutionrelative:repositories\\ibookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE1E1CAF-441E-4DED-8A0D-D695F3AD6AF7}|SRP_CaseStudy.csproj|e:\\trainings\\skillbridge\\tavant\\c#\\workspace\\srp_casestudy\\repositories\\iloanrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE1E1CAF-441E-4DED-8A0D-D695F3AD6AF7}|SRP_CaseStudy.csproj|solutionrelative:repositories\\iloanrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE1E1CAF-441E-4DED-8A0D-D695F3AD6AF7}|SRP_CaseStudy.csproj|e:\\trainings\\skillbridge\\tavant\\c#\\workspace\\srp_casestudy\\repositories\\imemberrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE1E1CAF-441E-4DED-8A0D-D695F3AD6AF7}|SRP_CaseStudy.csproj|solutionrelative:repositories\\imemberrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE1E1CAF-441E-4DED-8A0D-D695F3AD6AF7}|SRP_CaseStudy.csproj|e:\\trainings\\skillbridge\\tavant\\c#\\workspace\\srp_casestudy\\entities\\loan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE1E1CAF-441E-4DED-8A0D-D695F3AD6AF7}|SRP_CaseStudy.csproj|solutionrelative:entities\\loan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE1E1CAF-441E-4DED-8A0D-D695F3AD6AF7}|SRP_CaseStudy.csproj|e:\\trainings\\skillbridge\\tavant\\c#\\workspace\\srp_casestudy\\entities\\member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE1E1CAF-441E-4DED-8A0D-D695F3AD6AF7}|SRP_CaseStudy.csproj|solutionrelative:entities\\member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE1E1CAF-441E-4DED-8A0D-D695F3AD6AF7}|SRP_CaseStudy.csproj|e:\\trainings\\skillbridge\\tavant\\c#\\workspace\\srp_casestudy\\entities\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE1E1CAF-441E-4DED-8A0D-D695F3AD6AF7}|SRP_CaseStudy.csproj|solutionrelative:entities\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{FE1E1CAF-441E-4DED-8A0D-D695F3AD6AF7}|SRP_CaseStudy.csproj|e:\\trainings\\skillbridge\\tavant\\c#\\workspace\\srp_casestudy\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FE1E1CAF-441E-4DED-8A0D-D695F3AD6AF7}|SRP_CaseStudy.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -19,6 +55,123 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "NotificationService.cs",
+              "DocumentMoniker": "E:\\trainings\\skillbridge\\tavant\\c#\\workspace\\SRP_CaseStudy\\Services\\NotificationService.cs",
+              "RelativeDocumentMoniker": "Services\\NotificationService.cs",
+              "ToolTip": "E:\\trainings\\skillbridge\\tavant\\c#\\workspace\\SRP_CaseStudy\\Services\\NotificationService.cs",
+              "RelativeToolTip": "Services\\NotificationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T10:52:19.116Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BookService.cs",
+              "DocumentMoniker": "E:\\trainings\\skillbridge\\tavant\\c#\\workspace\\SRP_CaseStudy\\Services\\BookService.cs",
+              "RelativeDocumentMoniker": "Services\\BookService.cs",
+              "ToolTip": "E:\\trainings\\skillbridge\\tavant\\c#\\workspace\\SRP_CaseStudy\\Services\\BookService.cs",
+              "RelativeToolTip": "Services\\BookService.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAACUAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T10:44:36.091Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BookRepositoryImpl.cs",
+              "DocumentMoniker": "E:\\trainings\\skillbridge\\tavant\\c#\\workspace\\SRP_CaseStudy\\Repositories\\BookRepositoryImpl.cs",
+              "RelativeDocumentMoniker": "Repositories\\BookRepositoryImpl.cs",
+              "ToolTip": "E:\\trainings\\skillbridge\\tavant\\c#\\workspace\\SRP_CaseStudy\\Repositories\\BookRepositoryImpl.cs",
+              "RelativeToolTip": "Repositories\\BookRepositoryImpl.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwBwAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T10:37:40.04Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ILoanRepository.cs",
+              "DocumentMoniker": "E:\\trainings\\skillbridge\\tavant\\c#\\workspace\\SRP_CaseStudy\\Repositories\\ILoanRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\ILoanRepository.cs",
+              "ToolTip": "E:\\trainings\\skillbridge\\tavant\\c#\\workspace\\SRP_CaseStudy\\Repositories\\ILoanRepository.cs",
+              "RelativeToolTip": "Repositories\\ILoanRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T10:36:02.688Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IMemberRepository.cs",
+              "DocumentMoniker": "E:\\trainings\\skillbridge\\tavant\\c#\\workspace\\SRP_CaseStudy\\Repositories\\IMemberRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\IMemberRepository.cs",
+              "ToolTip": "E:\\trainings\\skillbridge\\tavant\\c#\\workspace\\SRP_CaseStudy\\Repositories\\IMemberRepository.cs",
+              "RelativeToolTip": "Repositories\\IMemberRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T10:34:59.299Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IBookRepository.cs",
+              "DocumentMoniker": "E:\\trainings\\skillbridge\\tavant\\c#\\workspace\\SRP_CaseStudy\\Repositories\\IBookRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\IBookRepository.cs",
+              "ToolTip": "E:\\trainings\\skillbridge\\tavant\\c#\\workspace\\SRP_CaseStudy\\Repositories\\IBookRepository.cs",
+              "RelativeToolTip": "Repositories\\IBookRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T10:33:19.833Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Loan.cs",
+              "DocumentMoniker": "E:\\trainings\\skillbridge\\tavant\\c#\\workspace\\SRP_CaseStudy\\Entities\\Loan.cs",
+              "RelativeDocumentMoniker": "Entities\\Loan.cs",
+              "ToolTip": "E:\\trainings\\skillbridge\\tavant\\c#\\workspace\\SRP_CaseStudy\\Entities\\Loan.cs",
+              "RelativeToolTip": "Entities\\Loan.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T10:30:14.587Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Member.cs",
+              "DocumentMoniker": "E:\\trainings\\skillbridge\\tavant\\c#\\workspace\\SRP_CaseStudy\\Entities\\Member.cs",
+              "RelativeDocumentMoniker": "Entities\\Member.cs",
+              "ToolTip": "E:\\trainings\\skillbridge\\tavant\\c#\\workspace\\SRP_CaseStudy\\Entities\\Member.cs",
+              "RelativeToolTip": "Entities\\Member.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T10:29:28.692Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Book.cs",
+              "DocumentMoniker": "E:\\trainings\\skillbridge\\tavant\\c#\\workspace\\SRP_CaseStudy\\Entities\\Book.cs",
+              "RelativeDocumentMoniker": "Entities\\Book.cs",
+              "ToolTip": "E:\\trainings\\skillbridge\\tavant\\c#\\workspace\\SRP_CaseStudy\\Entities\\Book.cs",
+              "RelativeToolTip": "Entities\\Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T10:27:51.509Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\trainings\\skillbridge\\tavant\\c#\\workspace\\SRP_CaseStudy\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",

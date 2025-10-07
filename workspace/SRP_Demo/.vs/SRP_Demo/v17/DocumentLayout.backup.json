@@ -7,24 +7,24 @@
       "RelativeMoniker": "D:0:0:{8C168571-D247-458E-A51D-3FAFF95C5987}|SRP_Demo.csproj|solutionrelative:services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{8C168571-D247-458E-A51D-3FAFF95C5987}|SRP_Demo.csproj|e:\\trainings\\skillbridge\\tavant\\c#\\workspace\\srp_demo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C168571-D247-458E-A51D-3FAFF95C5987}|SRP_Demo.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{8C168571-D247-458E-A51D-3FAFF95C5987}|SRP_Demo.csproj|e:\\trainings\\skillbridge\\tavant\\c#\\workspace\\srp_demo\\services\\ordercalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8C168571-D247-458E-A51D-3FAFF95C5987}|SRP_Demo.csproj|solutionrelative:services\\ordercalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C168571-D247-458E-A51D-3FAFF95C5987}|SRP_Demo.csproj|e:\\trainings\\skillbridge\\tavant\\c#\\workspace\\srp_demo\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C168571-D247-458E-A51D-3FAFF95C5987}|SRP_Demo.csproj|solutionrelative:entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8C168571-D247-458E-A51D-3FAFF95C5987}|SRP_Demo.csproj|e:\\trainings\\skillbridge\\tavant\\c#\\workspace\\srp_demo\\services\\ordervalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8C168571-D247-458E-A51D-3FAFF95C5987}|SRP_Demo.csproj|solutionrelative:services\\ordervalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8C168571-D247-458E-A51D-3FAFF95C5987}|SRP_Demo.csproj|e:\\trainings\\skillbridge\\tavant\\c#\\workspace\\srp_demo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8C168571-D247-458E-A51D-3FAFF95C5987}|SRP_Demo.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{8C168571-D247-458E-A51D-3FAFF95C5987}|SRP_Demo.csproj|e:\\trainings\\skillbridge\\tavant\\c#\\workspace\\srp_demo\\repository\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8C168571-D247-458E-A51D-3FAFF95C5987}|SRP_Demo.csproj|solutionrelative:repository\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8C168571-D247-458E-A51D-3FAFF95C5987}|SRP_Demo.csproj|e:\\trainings\\skillbridge\\tavant\\c#\\workspace\\srp_demo\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8C168571-D247-458E-A51D-3FAFF95C5987}|SRP_Demo.csproj|solutionrelative:entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8C168571-D247-458E-A51D-3FAFF95C5987}|SRP_Demo.csproj|e:\\trainings\\skillbridge\\tavant\\c#\\workspace\\srp_demo\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -46,7 +46,7 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "OrderCalculator.cs",
               "DocumentMoniker": "E:\\trainings\\skillbridge\\tavant\\c#\\workspace\\SRP_Demo\\services\\OrderCalculator.cs",
               "RelativeDocumentMoniker": "services\\OrderCalculator.cs",
@@ -59,13 +59,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
               "Title": "Product.cs",
               "DocumentMoniker": "E:\\trainings\\skillbridge\\tavant\\c#\\workspace\\SRP_Demo\\entities\\Product.cs",
               "RelativeDocumentMoniker": "entities\\Product.cs",
               "ToolTip": "E:\\trainings\\skillbridge\\tavant\\c#\\workspace\\SRP_Demo\\entities\\Product.cs",
               "RelativeToolTip": "entities\\Product.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAVAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-06T09:55:34.041Z",
               "EditorCaption": ""
@@ -85,7 +85,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "OrderRepository.cs",
               "DocumentMoniker": "E:\\trainings\\skillbridge\\tavant\\c#\\workspace\\SRP_Demo\\repository\\OrderRepository.cs",
               "RelativeDocumentMoniker": "repository\\OrderRepository.cs",
@@ -98,7 +98,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "OrderValidator.cs",
               "DocumentMoniker": "E:\\trainings\\skillbridge\\tavant\\c#\\workspace\\SRP_Demo\\services\\OrderValidator.cs",
               "RelativeDocumentMoniker": "services\\OrderValidator.cs",
@@ -130,20 +130,20 @@
               "RelativeDocumentMoniker": "services\\OrderService.cs",
               "ToolTip": "E:\\trainings\\skillbridge\\tavant\\c#\\workspace\\SRP_Demo\\services\\OrderService.cs",
               "RelativeToolTip": "services\\OrderService.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAAAB8AAAAeAAAAAAAAAA==",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwBEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-06T09:17:28.233Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\trainings\\skillbridge\\tavant\\c#\\workspace\\SRP_Demo\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "E:\\trainings\\skillbridge\\tavant\\c#\\workspace\\SRP_Demo\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAWAAAAAAAAAA==",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwA8AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-06T08:27:55.335Z",
               "EditorCaption": ""

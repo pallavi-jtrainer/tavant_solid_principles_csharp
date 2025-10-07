@@ -9,15 +9,16 @@ namespace SRP_CaseStudy.Services
 {
     internal class NotificationService
     {
-        public void SendLoanNotification(Member member, Book book, Loan loan) {
-            Console.WriteLine($"Notification to: {member.Email}");
-            Console.WriteLine($" You Borrowed {book.Title} on {loan.LoanDate}. Due date is {loan.DueDate}");
+        public void SendLoanNotification(Member member, Book book, Loan loan)
+        {
+            Console.WriteLine($"[Notification] To: {member.Email}");
+            Console.WriteLine($"   You borrowed '{book.Title}'. Due: {loan.DueDate:dd-MMM-yyyy}\n");
         }
 
-        public void SendReturnNotification(Member member, Book book, Loan loan)
+        public void SendReturnNotification(Member member, Book book)
         {
-            Console.WriteLine($"Notification to: {member.Email}");
-            Console.WriteLine($" You Returned {book.Title}. Thank you");
+            Console.WriteLine($"[Notification] To: {member.Email}");
+            Console.WriteLine($"   Thanks for returning '{book.Title}'!\n");
         }
     }
 }

@@ -1,5 +1,6 @@
 ﻿using SRP_CaseStudy.Entities;
 using SRP_CaseStudy.Repositories;
+using SRP_CaseStudy.Services.Notifications;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -12,12 +13,13 @@ namespace SRP_CaseStudy.Services
     {
         private readonly ILoanRepository _loanRepo;
         private readonly BookService _bookService;
-        private readonly NotificationService _notificationService;
+        //private readonly NotificationService _notificationService;
+        private readonly INotificationService _notificationService;
 
         public LoanService(
             ILoanRepository loanRepo,
             BookService bookService,
-            NotificationService notificationService)
+            INotificationService notificationService)
         {
             _loanRepo = loanRepo;
             _bookService = bookService;
@@ -26,7 +28,7 @@ namespace SRP_CaseStudy.Services
 
         public void BorrowBook(Book book, Member member)
         {
-            if (!book.IsAvailable)
+            if (!book.isAvailable)
             {
                 Console.WriteLine($"[LoanService] '{book.Title}' is not available.");
                 return;
@@ -71,5 +73,5 @@ namespace SRP_CaseStudy.Services
 
         public IEnumerable<Loan> GetAllLoans() => _loanRepo.GetAll();
     }
-}
+
 }

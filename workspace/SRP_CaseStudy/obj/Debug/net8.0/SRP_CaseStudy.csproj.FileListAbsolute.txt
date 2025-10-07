@@ -1,0 +1,15 @@
+E:\trainings\skillbridge\tavant\c#\workspace\SRP_CaseStudy\obj\Debug\net8.0\SRP_CaseStudy.GeneratedMSBuildEditorConfig.editorconfig
+E:\trainings\skillbridge\tavant\c#\workspace\SRP_CaseStudy\obj\Debug\net8.0\SRP_CaseStudy.AssemblyInfoInputs.cache
+E:\trainings\skillbridge\tavant\c#\workspace\SRP_CaseStudy\obj\Debug\net8.0\SRP_CaseStudy.AssemblyInfo.cs
+E:\trainings\skillbridge\tavant\c#\workspace\SRP_CaseStudy\obj\Debug\net8.0\SRP_CaseStudy.csproj.CoreCompileInputs.cache
+E:\trainings\skillbridge\tavant\c#\workspace\SRP_CaseStudy\obj\Debug\net8.0\SRP_CaseStudy.sourcelink.json
+E:\trainings\skillbridge\tavant\c#\workspace\SRP_CaseStudy\bin\Debug\net8.0\SRP_CaseStudy.exe
+E:\trainings\skillbridge\tavant\c#\workspace\SRP_CaseStudy\bin\Debug\net8.0\SRP_CaseStudy.deps.json
+E:\trainings\skillbridge\tavant\c#\workspace\SRP_CaseStudy\bin\Debug\net8.0\SRP_CaseStudy.runtimeconfig.json
+E:\trainings\skillbridge\tavant\c#\workspace\SRP_CaseStudy\bin\Debug\net8.0\SRP_CaseStudy.dll
+E:\trainings\skillbridge\tavant\c#\workspace\SRP_CaseStudy\bin\Debug\net8.0\SRP_CaseStudy.pdb
+E:\trainings\skillbridge\tavant\c#\workspace\SRP_CaseStudy\obj\Debug\net8.0\SRP_CaseStudy.dll
+E:\trainings\skillbridge\tavant\c#\workspace\SRP_CaseStudy\obj\Debug\net8.0\refint\SRP_CaseStudy.dll
+E:\trainings\skillbridge\tavant\c#\workspace\SRP_CaseStudy\obj\Debug\net8.0\SRP_CaseStudy.pdb
+E:\trainings\skillbridge\tavant\c#\workspace\SRP_CaseStudy\obj\Debug\net8.0\SRP_CaseStudy.genruntimeconfig.cache
+E:\trainings\skillbridge\tavant\c#\workspace\SRP_CaseStudy\obj\Debug\net8.0\ref\SRP_CaseStudy.dll

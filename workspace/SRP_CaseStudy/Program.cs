@@ -2,6 +2,7 @@
 using SRP_CaseStudy.Entities;
 using SRP_CaseStudy.Repositories;
 using SRP_CaseStudy.Services;
+using SRP_CaseStudy.Services.Notifications;
 
 class Program
 {
@@ -15,7 +16,9 @@ class Program
         // Setup Services
         var bookService = new BookService(bookRepo);
         var memberService = new MemberService(memberRepo);
-        var notificationService = new NotificationService();
+        //var notificationService = new NotificationService();
+        INotificationService notificationService = new EmailNotificationService();
+
         var loanService = new LoanService(loanRepo, bookService, notificationService);
 
         // --- Operations ---

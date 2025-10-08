@@ -53,6 +53,91 @@ For the case study
 2. Add a SlackNotificationService
 3. Add a Premium Member. provide for reward points
 
+Added practice
+1. add ebook subclass
+2. Update late fee calculation to handle different book types
+3. Add categories for books (Academic and Non-academic) with different late fees and different number of days for return
+4. Add a duedate extension service/ re-issue service
+
+__________________________________________________________________________________________________________
+Day 3:
+LSP -> Liskov Substitution Principle
+-> Barbara Liskov in the 1980s
+-> polymorphism works correctly
+-> code remain stable and reliable even when new implementations are introduced
+
+
+Ex violating LSP
+
+public class Rectangle {
+	public int Height {get; set;}
+	public int Width {get; set;}
+
+	public int CalculateArea() => Height * Width;
+}
+
+public class Square : Rectangle {
+	public override int Height {
+		set 
+		{
+			base.Width = value;
+			base.Height = value;
+		}
+	}
+	public override int Width {
+		set 
+		{
+			base.Width = value;
+			base.Height = value;
+		}
+	}
+
+}
+
+
+public class Client {
+	public void PrintArea(Rectangle rect) {
+		rect.Width = 10;
+		rect.Height = 20;
+		Console.Writeline(rect.CalculateArea())
+	}
+
+	Main() {
+		PrintArea(new Square());
+	}
+
+}
+
+--------------------
+LSP Compliant Code
+public interface Shape {
+	public int CalculateArea();
+}
+
+public class Rectangle : Shape {
+}
+
+public class Square : Shape {
+}
+
+Client{
+	Main() {
+		List<Shape> shapes = new List<Shape> {
+			new Rectangle {},
+			new Square {}
+		}
+	}
+}
+
+-----------------------------------------------------------
+
+Hands On
+1. Add LoyaltyDiscount - 5% off extra
+2. Add InternationalShipping and SameDayShipping
+3. calculate shipping amount based on weight and quantity
+4. create a LimitedShippingService where if weight is beyond a certain value, it should switch to standard shipping
+
+
 
 
 

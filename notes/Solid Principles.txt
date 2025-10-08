@@ -137,7 +137,11 @@ Hands On
 3. calculate shipping amount based on weight and quantity
 4. create a LimitedShippingService where if weight is beyond a certain value, it should switch to standard shipping
 
-
-
+Case Study hands On
+1. Add payment service with 4 services - Wallet, Credit, Debit, UPI
+2. Add LoyaltyDiscount on the late fee
+3. Add StaffMember. Loan duration = 15 days, late fee = 2/per day, should have an id field
+4. Check for a suspended member. In case they try to borrow, display total late fee to be paid
+5. Add a ReservedBook class. Send notification once a reserved book is returned
 
 

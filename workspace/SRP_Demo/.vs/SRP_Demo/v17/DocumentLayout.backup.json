@@ -78,21 +78,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 3,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ShippingFactory.cs",
-              "DocumentMoniker": "E:\\trainings\\skillbridge\\tavant\\c#\\workspace\\SRP_Demo\\services\\shipping\\ShippingFactory.cs",
-              "RelativeDocumentMoniker": "services\\shipping\\ShippingFactory.cs",
-              "ToolTip": "E:\\trainings\\skillbridge\\tavant\\c#\\workspace\\SRP_Demo\\services\\shipping\\ShippingFactory.cs",
-              "RelativeToolTip": "services\\shipping\\ShippingFactory.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAyAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-08T09:40:47.529Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 4,
@@ -134,6 +121,32 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\trainings\\skillbridge\\tavant\\c#\\workspace\\SRP_Demo\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "E:\\trainings\\skillbridge\\tavant\\c#\\workspace\\SRP_Demo\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwCEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T08:27:55.335Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ShippingFactory.cs",
+              "DocumentMoniker": "E:\\trainings\\skillbridge\\tavant\\c#\\workspace\\SRP_Demo\\services\\shipping\\ShippingFactory.cs",
+              "RelativeDocumentMoniker": "services\\shipping\\ShippingFactory.cs",
+              "ToolTip": "E:\\trainings\\skillbridge\\tavant\\c#\\workspace\\SRP_Demo\\services\\shipping\\ShippingFactory.cs",
+              "RelativeToolTip": "services\\shipping\\ShippingFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T09:40:47.529Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
               "Title": "OrderService.cs",
               "DocumentMoniker": "E:\\trainings\\skillbridge\\tavant\\c#\\workspace\\SRP_Demo\\services\\OrderService.cs",
@@ -156,19 +169,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-06T09:33:18.018Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "E:\\trainings\\skillbridge\\tavant\\c#\\workspace\\SRP_Demo\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "E:\\trainings\\skillbridge\\tavant\\c#\\workspace\\SRP_Demo\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAQwB8AAAA9AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-06T08:27:55.335Z",
               "EditorCaption": ""
             },
             {

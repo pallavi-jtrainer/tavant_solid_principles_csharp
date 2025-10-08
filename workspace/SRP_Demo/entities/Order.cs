@@ -15,5 +15,7 @@ namespace SRP_Demo.entities
         public List<Product> products { get; set; } = new List<Product>();
 
         public int Quantity { get; set; }
+
+        public string PaymentType { get; set; } = "";
     }
 }

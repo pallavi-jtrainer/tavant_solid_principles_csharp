@@ -1,6 +1,7 @@
 ﻿using SRP_Demo.entities;
 using SRP_Demo.repository;
 using SRP_Demo.services.discount;
+using SRP_Demo.services.payment;
 using SRP_Demo.services.shipping;
 using System;
 using System.Collections.Generic;
@@ -49,8 +50,13 @@ namespace SRP_Demo.services
             order.total += shippingCost;
             
             _validator.Validate(order);
-            _orderRepository.Save(order);
+            
             _emailService.SendEmail(order.customerEmail, $"Order #{order.Id} Confirmed. Total Amount: {order.total}");
+
+            var paymentStrategy = PaymentFactory.GetPaymentStrategy(order.PaymentType);
+            paymentStrategy.Pay(order.total);
+
+            _orderRepository.Save(order);
 
             //if (order.total <= 0)
             //{

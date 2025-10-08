@@ -15,7 +15,9 @@ class Program {
         var order = new Order
         {
             products = products,
-            customerEmail = "customer@example.com"
+            customerEmail = "customer@example.com",
+            PaymentType = "DebitCard",
+            Quantity = 2
         };
 
         //create services

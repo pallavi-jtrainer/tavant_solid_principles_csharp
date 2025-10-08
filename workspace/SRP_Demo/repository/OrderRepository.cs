@@ -15,7 +15,7 @@ namespace SRP_Demo.repository
         public void Save(Order order) {
             order.Id = _orders.Count + 1;
             _orders.Add(order);
-            Console.WriteLine($"Order # {order.Id} saved successfully");
+            Console.WriteLine($"Order # {order.Id} saved successfully. Total number of products in this order: {order.products.Count}");
         }
 
         public IEnumerable<Order> GetOrders() => _orders;

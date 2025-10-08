@@ -1,6 +1,7 @@
 ﻿using SRP_Demo.entities;
 using SRP_Demo.repository;
 using SRP_Demo.services.discount;
+using SRP_Demo.services.shipping;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -37,11 +38,19 @@ namespace SRP_Demo.services
                 discountAmt += discount;
 
             }
+
             double sum = _orderCalculator.CalculateOrderTotal(order);
             order.total = sum - discountAmt;
+
+            var shippingStrategy = ShippingFactory.GetShippingStrategy("Standard");
+
+            double shippingCost = shippingStrategy.CalculateShippingCost(order);
+
+            order.total += shippingCost;
+            
             _validator.Validate(order);
             _orderRepository.Save(order);
-            _emailService.SendEmail(order.customerEmail, $"Order #{order.Id} Confirmed");
+            _emailService.SendEmail(order.customerEmail, $"Order #{order.Id} Confirmed. Total Amount: {order.total}");
 
             //if (order.total <= 0)
             //{

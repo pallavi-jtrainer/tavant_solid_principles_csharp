@@ -13,5 +13,7 @@ namespace SRP_Demo.entities
         public double total { get; set; }
 
         public List<Product> products { get; set; } = new List<Product>();
+
+        public int Quantity { get; set; }
     }
 }

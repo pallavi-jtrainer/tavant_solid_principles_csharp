@@ -143,5 +143,60 @@ Case Study hands On
 3. Add StaffMember. Loan duration = 15 days, late fee = 2/per day, should have an id field
 4. Check for a suspended member. In case they try to borrow, display total late fee to be paid
 5. Add a ReservedBook class. Send notification once a reserved book is returned
+________________________________________________________________________________________________
+Day 4:
+ISP -> Interface Segregation Principle
+-> keep interfaces small, focused and specific
+
+Ex:
+public interface IMachine // 'fat' interface
+{
+	void Print();
+	void Scan();
+	void Fax();
+}
+
+public class Scanner : IMachine
+{
+	void Scan() => Console.Writeline();
+	void Print() => throw new NotImplementedException();
+}
+-----------------------
+ISP Compliant:
+public interface IPrinter{ void Print(); }
+
+public interface IScanner { void Scan(); }
+
+public class Scanner : IScanner {}
+
+
+-----------------------------------------------------------------
+Employee Management System
+Entities: Employee (base), Developer, Manager, Tester etc (derived)
+Behaviour: Work, Manage, Conduct interviews, Attend Meetings
+Services: salary calculations, notifications, handle reporting
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 

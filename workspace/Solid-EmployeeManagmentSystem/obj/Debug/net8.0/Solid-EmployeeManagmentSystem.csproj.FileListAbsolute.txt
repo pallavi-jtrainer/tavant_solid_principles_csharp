@@ -1,0 +1,15 @@
+E:\trainings\skillbridge\tavant\c#\workspace\Solid-EmployeeManagmentSystem\obj\Debug\net8.0\Solid-EmployeeManagmentSystem.GeneratedMSBuildEditorConfig.editorconfig
+E:\trainings\skillbridge\tavant\c#\workspace\Solid-EmployeeManagmentSystem\obj\Debug\net8.0\Solid-EmployeeManagmentSystem.AssemblyInfoInputs.cache
+E:\trainings\skillbridge\tavant\c#\workspace\Solid-EmployeeManagmentSystem\obj\Debug\net8.0\Solid-EmployeeManagmentSystem.AssemblyInfo.cs
+E:\trainings\skillbridge\tavant\c#\workspace\Solid-EmployeeManagmentSystem\obj\Debug\net8.0\Solid-EmployeeManagmentSystem.csproj.CoreCompileInputs.cache
+E:\trainings\skillbridge\tavant\c#\workspace\Solid-EmployeeManagmentSystem\obj\Debug\net8.0\Solid-EmployeeManagmentSystem.sourcelink.json
+E:\trainings\skillbridge\tavant\c#\workspace\Solid-EmployeeManagmentSystem\bin\Debug\net8.0\Solid-EmployeeManagmentSystem.exe
+E:\trainings\skillbridge\tavant\c#\workspace\Solid-EmployeeManagmentSystem\bin\Debug\net8.0\Solid-EmployeeManagmentSystem.deps.json
+E:\trainings\skillbridge\tavant\c#\workspace\Solid-EmployeeManagmentSystem\bin\Debug\net8.0\Solid-EmployeeManagmentSystem.runtimeconfig.json
+E:\trainings\skillbridge\tavant\c#\workspace\Solid-EmployeeManagmentSystem\bin\Debug\net8.0\Solid-EmployeeManagmentSystem.dll
+E:\trainings\skillbridge\tavant\c#\workspace\Solid-EmployeeManagmentSystem\bin\Debug\net8.0\Solid-EmployeeManagmentSystem.pdb
+E:\trainings\skillbridge\tavant\c#\workspace\Solid-EmployeeManagmentSystem\obj\Debug\net8.0\Solid-EmployeeManagmentSystem.dll
+E:\trainings\skillbridge\tavant\c#\workspace\Solid-EmployeeManagmentSystem\obj\Debug\net8.0\refint\Solid-EmployeeManagmentSystem.dll
+E:\trainings\skillbridge\tavant\c#\workspace\Solid-EmployeeManagmentSystem\obj\Debug\net8.0\Solid-EmployeeManagmentSystem.pdb
+E:\trainings\skillbridge\tavant\c#\workspace\Solid-EmployeeManagmentSystem\obj\Debug\net8.0\Solid-EmployeeManagmentSystem.genruntimeconfig.cache
+E:\trainings\skillbridge\tavant\c#\workspace\Solid-EmployeeManagmentSystem\obj\Debug\net8.0\ref\Solid-EmployeeManagmentSystem.dll

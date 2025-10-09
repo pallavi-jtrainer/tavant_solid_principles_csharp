@@ -176,6 +176,22 @@ Entities: Employee (base), Developer, Manager, Tester etc (derived)
 Behaviour: Work, Manage, Conduct interviews, Attend Meetings
 Services: salary calculations, notifications, handle reporting
 
+Hands on:
+1. Add a new Class for HR
+2. In EmployeeService, add a method PrintWorkReport. Call Work() polymorphically
+3. Add a Reporting Service
+4. Extend the salary calculation to add a role based bonus
+5. Create a class for contract employee
+6. Create a trainer role who only works and trains interns
+7. Interns have to be trainable
+-------------------------------------------------------------------------------------
+Hands On:
+Create a Vehicle Management System Project which incorporates SRP, OCP, LSP and ISP
+1. Entities: Customer, Vehicle, Mechanic, Maintenance
+2. Create the necessary repositories and services.
+3. Add NotificationService
+4. Add a new Mechanic Type. Example: Electrical mechanic
+5. 
 
 
 

@@ -185,15 +185,27 @@ Hands on:
 6. Create a trainer role who only works and trains interns
 7. Interns have to be trainable
 -------------------------------------------------------------------------------------
+
 Hands On:
 Create a Vehicle Management System Project which incorporates SRP, OCP, LSP and ISP
 1. Entities: Customer, Vehicle, Mechanic, Maintenance
 2. Create the necessary repositories and services.
 3. Add NotificationService
 4. Add a new Mechanic Type. Example: Electrical mechanic
-5. 
+5. Add a Payment service
+6. Add a Invoice service which generates an invoice in PDF format
+7. Add Service history to the vehicles
+Note: Have at least 2 kinds of vehicles( ex. car and truck)
+----------------------------------------------------------------------------------
 
+Case Study hands-on
+1. Refactor the notification service to make it ISP compliant
+2. Update the implementations
+3. Update the notification service to handle overdue notifications
+4. add a push notification service that implements only the overdue notification service
+5. refactor the payment service to make it ISP compliant
 
+___________________________________________________________________________________________________________
 
 
 

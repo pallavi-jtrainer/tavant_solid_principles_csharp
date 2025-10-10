@@ -267,6 +267,7 @@ Hands On
 Case study:
 1. Add a new StudentMember
 2. Load discounts dynamically from a json file used as Config
+3. Create a LibraryConfigurer to wire all the dependencies manually
 
 
 

@@ -13,5 +13,10 @@ namespace Solid_EmployeeManagmentSystem.Entities
         public override double CalculateSalary() => 30000;
 
         public void Work() => Console.WriteLine($"{Name} is working as an intern since {DurationInMonths} months");
+
+        public override void Activities()
+        {
+            Work();
+        }
     }
 }

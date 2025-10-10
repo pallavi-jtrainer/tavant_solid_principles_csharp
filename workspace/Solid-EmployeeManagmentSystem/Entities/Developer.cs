@@ -14,5 +14,11 @@ namespace Solid_EmployeeManagmentSystem.Entities
 
         public void Work() => Console.WriteLine($"{Name} writes {LinesOfCodePerDay} lines of code everyday");
         public void AttendMeeting() => Console.WriteLine($"{Name} is attending a Standup Meeting");
+
+        public override void Activities()
+        {
+            Work();
+            AttendMeeting();
+        }
     }
 }

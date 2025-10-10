@@ -207,14 +207,46 @@ Case Study hands-on
 
 ___________________________________________________________________________________________________________
 
+Day 5
+DIP 
+-> Dependency Inversion Principle
+-> High level module should not depend on low level modules
+-> Both of them should depend on Abstractions
+-> Abstractions should not depend on details, details should depend on abstractions
+ 
+Example violates DIP
+
+public class FileLogger {
+	public void Log(string message) {
+		Console.Writeline($"File Log: {message}");
+	}
+}
 
 
+public class OrderService {
+	private FileLogger _logger = new FileLogger();
 
+}
 
+DIP Compliant
 
+public interface ILogger {
+	void Log(string message);
+}
 
+public class FileLogger : ILogger {}
 
+public class DatabaseLogger : ILogger {
+}
 
+public class OrderService {
+	private readonly ILogger _logger;
+	
+	// manual dependency injection
+	public OrderService(ILogger logger) { _logger = logger ;}
+}
+
+------------------------------------------------------------
 
 
 

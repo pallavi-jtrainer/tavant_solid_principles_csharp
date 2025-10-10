@@ -14,5 +14,7 @@ namespace Solid_EmployeeManagmentSystem.Entities
         public string Email { get; set; } = string.Empty;
 
         public abstract double CalculateSalary();
+
+        public abstract void Activities();
     }
 }

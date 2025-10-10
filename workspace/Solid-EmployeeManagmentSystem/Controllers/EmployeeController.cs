@@ -11,9 +11,10 @@ namespace Solid_EmployeeManagmentSystem.Controllers
 {
     internal class EmployeeController
     {
-        private readonly EmployeeService _employeeService;
+        private readonly IEmployeeService _employeeService;
 
-        public EmployeeController(EmployeeService employeeService) {
+        // manual Dependency Injection
+        public EmployeeController(IEmployeeService employeeService) {
             _employeeService = employeeService;
         }
 
@@ -25,7 +26,9 @@ namespace Solid_EmployeeManagmentSystem.Controllers
 
                 new Manager { Id = 10, Name="Charlie", Email="charlie@xyz.com", TeamSize=5},
 
-                new Intern { Id = 23, Name="Robert", Email="robert@xyz.com", DurationInMonths=3}
+                new Intern { Id = 23, Name="Robert", Email="robert@xyz.com", DurationInMonths=3},
+
+                new HR { Id = 45, Name="Maya", Email="maya@xyz.com"}
             };
 
             Console.WriteLine("Employee Details");
@@ -34,11 +37,10 @@ namespace Solid_EmployeeManagmentSystem.Controllers
             Console.WriteLine("Activities");
 
             foreach (var e in employees) {
-                if (e is IWorkable w) w.Work();
-                if (e is IMeetingAttendee m) m.AttendMeeting();
-                if (e is IManageable mg) mg.ManageTeam();
-                if (e is IInterviewable i) i.ConductInterview();
+                e.Activities();
             }
+
+            _employeeService.PrintWorkReport(employees);
 
         }
     }

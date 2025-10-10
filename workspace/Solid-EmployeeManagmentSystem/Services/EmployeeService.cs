@@ -10,11 +10,21 @@ namespace Solid_EmployeeManagmentSystem.Services
 {
     internal class EmployeeService :IEmployeeService
     {
+        private readonly IReportService _reportService;
+        private readonly INotificationService _notificationService;
+
+        public EmployeeService(IReportService reportService, INotificationService notificationService)
+        {
+            _reportService = reportService;
+            _notificationService = notificationService;
+        }
+
         public double CalculateTotalMonthlyPayment(List<Employee> employees) {
             double total = 0;
 
             foreach (var e in employees) {
                 total += e.CalculateSalary();
+                _notificationService.Notify($"{e.Name}'s salary has been processed");
             }
 
             return total;
@@ -26,10 +36,11 @@ namespace Solid_EmployeeManagmentSystem.Services
         }
 
         public void GetAllEmployees(List<Employee> employees) {
-            foreach (var e in employees) 
-            {
-                Console.WriteLine($"{e.Name} earns {e.CalculateSalary()} per month");
-            }
+            //foreach (var e in employees) 
+            //{
+            //    Console.WriteLine($"{e.Name} earns {e.CalculateSalary()} per month");
+            //}
+            _reportService.GenerateEmployeeReport(employees);
         }
 
         public void PrintWorkReport(List<Employee> employees) {

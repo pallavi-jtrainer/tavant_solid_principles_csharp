@@ -247,9 +247,14 @@ public class OrderService {
 }
 
 ------------------------------------------------------------
+DI container
+1. Centralizes the object creation
+2. Makes the code more testable
+3. Encourages Constructor Injection
 
-
-
+2 Packages:
+Microsoft.Extensions.DependencyInjection
+Microsoft.Extensions.Hosting
 
 
 

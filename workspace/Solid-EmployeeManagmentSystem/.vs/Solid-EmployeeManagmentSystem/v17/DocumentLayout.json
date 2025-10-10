@@ -7,12 +7,32 @@
       "RelativeMoniker": "D:0:0:{A4F9F51E-111C-46D2-A54A-4853F89C1DC5}|Solid-EmployeeManagmentSystem.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{A4F9F51E-111C-46D2-A54A-4853F89C1DC5}|Solid-EmployeeManagmentSystem.csproj|e:\\trainings\\skillbridge\\tavant\\c#\\workspace\\solid-employeemanagmentsystem\\ioc\\servicecollectionregistry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4F9F51E-111C-46D2-A54A-4853F89C1DC5}|Solid-EmployeeManagmentSystem.csproj|solutionrelative:ioc\\servicecollectionregistry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A4F9F51E-111C-46D2-A54A-4853F89C1DC5}|Solid-EmployeeManagmentSystem.csproj|e:\\trainings\\skillbridge\\tavant\\c#\\workspace\\solid-employeemanagmentsystem\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A4F9F51E-111C-46D2-A54A-4853F89C1DC5}|Solid-EmployeeManagmentSystem.csproj|solutionrelative:controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A4F9F51E-111C-46D2-A54A-4853F89C1DC5}|Solid-EmployeeManagmentSystem.csproj|e:\\trainings\\skillbridge\\tavant\\c#\\workspace\\solid-employeemanagmentsystem\\services\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A4F9F51E-111C-46D2-A54A-4853F89C1DC5}|Solid-EmployeeManagmentSystem.csproj|solutionrelative:services\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4F9F51E-111C-46D2-A54A-4853F89C1DC5}|Solid-EmployeeManagmentSystem.csproj|e:\\trainings\\skillbridge\\tavant\\c#\\workspace\\solid-employeemanagmentsystem\\services\\emailnotification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4F9F51E-111C-46D2-A54A-4853F89C1DC5}|Solid-EmployeeManagmentSystem.csproj|solutionrelative:services\\emailnotification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4F9F51E-111C-46D2-A54A-4853F89C1DC5}|Solid-EmployeeManagmentSystem.csproj|e:\\trainings\\skillbridge\\tavant\\c#\\workspace\\solid-employeemanagmentsystem\\services\\reportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4F9F51E-111C-46D2-A54A-4853F89C1DC5}|Solid-EmployeeManagmentSystem.csproj|solutionrelative:services\\reportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4F9F51E-111C-46D2-A54A-4853F89C1DC5}|Solid-EmployeeManagmentSystem.csproj|e:\\trainings\\skillbridge\\tavant\\c#\\workspace\\solid-employeemanagmentsystem\\interfaces\\inotificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4F9F51E-111C-46D2-A54A-4853F89C1DC5}|Solid-EmployeeManagmentSystem.csproj|solutionrelative:interfaces\\inotificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4F9F51E-111C-46D2-A54A-4853F89C1DC5}|Solid-EmployeeManagmentSystem.csproj|e:\\trainings\\skillbridge\\tavant\\c#\\workspace\\solid-employeemanagmentsystem\\interfaces\\ireportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4F9F51E-111C-46D2-A54A-4853F89C1DC5}|Solid-EmployeeManagmentSystem.csproj|solutionrelative:interfaces\\ireportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A4F9F51E-111C-46D2-A54A-4853F89C1DC5}|Solid-EmployeeManagmentSystem.csproj|e:\\trainings\\skillbridge\\tavant\\c#\\workspace\\solid-employeemanagmentsystem\\interfaces\\iemployeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -70,7 +90,163 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ServiceCollectionRegistry.cs",
+              "DocumentMoniker": "E:\\trainings\\skillbridge\\tavant\\c#\\workspace\\Solid-EmployeeManagmentSystem\\IoC\\ServiceCollectionRegistry.cs",
+              "RelativeDocumentMoniker": "IoC\\ServiceCollectionRegistry.cs",
+              "ToolTip": "E:\\trainings\\skillbridge\\tavant\\c#\\workspace\\Solid-EmployeeManagmentSystem\\IoC\\ServiceCollectionRegistry.cs",
+              "RelativeToolTip": "IoC\\ServiceCollectionRegistry.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T09:49:34.399Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ReportService.cs",
+              "DocumentMoniker": "E:\\trainings\\skillbridge\\tavant\\c#\\workspace\\Solid-EmployeeManagmentSystem\\Services\\ReportService.cs",
+              "RelativeDocumentMoniker": "Services\\ReportService.cs",
+              "ToolTip": "E:\\trainings\\skillbridge\\tavant\\c#\\workspace\\Solid-EmployeeManagmentSystem\\Services\\ReportService.cs",
+              "RelativeToolTip": "Services\\ReportService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T09:34:55.549Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "INotificationService.cs",
+              "DocumentMoniker": "E:\\trainings\\skillbridge\\tavant\\c#\\workspace\\Solid-EmployeeManagmentSystem\\Interfaces\\INotificationService.cs",
+              "RelativeDocumentMoniker": "Interfaces\\INotificationService.cs",
+              "ToolTip": "E:\\trainings\\skillbridge\\tavant\\c#\\workspace\\Solid-EmployeeManagmentSystem\\Interfaces\\INotificationService.cs",
+              "RelativeToolTip": "Interfaces\\INotificationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T09:31:37.478Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IReportService.cs",
+              "DocumentMoniker": "E:\\trainings\\skillbridge\\tavant\\c#\\workspace\\Solid-EmployeeManagmentSystem\\Interfaces\\IReportService.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IReportService.cs",
+              "ToolTip": "E:\\trainings\\skillbridge\\tavant\\c#\\workspace\\Solid-EmployeeManagmentSystem\\Interfaces\\IReportService.cs",
+              "RelativeToolTip": "Interfaces\\IReportService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T09:29:37.726Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "EmployeeService.cs",
+              "DocumentMoniker": "E:\\trainings\\skillbridge\\tavant\\c#\\workspace\\Solid-EmployeeManagmentSystem\\Services\\EmployeeService.cs",
+              "RelativeDocumentMoniker": "Services\\EmployeeService.cs",
+              "ToolTip": "E:\\trainings\\skillbridge\\tavant\\c#\\workspace\\Solid-EmployeeManagmentSystem\\Services\\EmployeeService.cs",
+              "RelativeToolTip": "Services\\EmployeeService.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAkwCoAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T09:10:25.889Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "E:\\trainings\\skillbridge\\tavant\\c#\\workspace\\Solid-EmployeeManagmentSystem\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\EmployeeController.cs",
+              "ToolTip": "E:\\trainings\\skillbridge\\tavant\\c#\\workspace\\Solid-EmployeeManagmentSystem\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "Controllers\\EmployeeController.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwA8AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T09:25:02.214Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\trainings\\skillbridge\\tavant\\c#\\workspace\\Solid-EmployeeManagmentSystem\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "E:\\trainings\\skillbridge\\tavant\\c#\\workspace\\Solid-EmployeeManagmentSystem\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAQwCMAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T08:58:44.9Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EmailNotification.cs",
+              "DocumentMoniker": "E:\\trainings\\skillbridge\\tavant\\c#\\workspace\\Solid-EmployeeManagmentSystem\\Services\\EmailNotification.cs",
+              "RelativeDocumentMoniker": "Services\\EmailNotification.cs",
+              "ToolTip": "E:\\trainings\\skillbridge\\tavant\\c#\\workspace\\Solid-EmployeeManagmentSystem\\Services\\EmailNotification.cs",
+              "RelativeToolTip": "Services\\EmailNotification.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T09:37:13.817Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Manager.cs",
+              "DocumentMoniker": "E:\\trainings\\skillbridge\\tavant\\c#\\workspace\\Solid-EmployeeManagmentSystem\\Entities\\Manager.cs",
+              "RelativeDocumentMoniker": "Entities\\Manager.cs",
+              "ToolTip": "E:\\trainings\\skillbridge\\tavant\\c#\\workspace\\Solid-EmployeeManagmentSystem\\Entities\\Manager.cs",
+              "RelativeToolTip": "Entities\\Manager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBZwBIAAABmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T09:06:27.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IMeetingAttendee.cs",
+              "DocumentMoniker": "E:\\trainings\\skillbridge\\tavant\\c#\\workspace\\Solid-EmployeeManagmentSystem\\Interfaces\\IMeetingAttendee.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IMeetingAttendee.cs",
+              "ToolTip": "E:\\trainings\\skillbridge\\tavant\\c#\\workspace\\Solid-EmployeeManagmentSystem\\Interfaces\\IMeetingAttendee.cs",
+              "RelativeToolTip": "Interfaces\\IMeetingAttendee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T09:17:16.288Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "E:\\trainings\\skillbridge\\tavant\\c#\\workspace\\Solid-EmployeeManagmentSystem\\Entities\\Employee.cs",
+              "RelativeDocumentMoniker": "Entities\\Employee.cs",
+              "ToolTip": "E:\\trainings\\skillbridge\\tavant\\c#\\workspace\\Solid-EmployeeManagmentSystem\\Entities\\Employee.cs",
+              "RelativeToolTip": "Entities\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwBEAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T09:02:28.822Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Intern.cs",
+              "DocumentMoniker": "E:\\trainings\\skillbridge\\tavant\\c#\\workspace\\Solid-EmployeeManagmentSystem\\Entities\\Intern.cs",
+              "RelativeDocumentMoniker": "Entities\\Intern.cs",
+              "ToolTip": "E:\\trainings\\skillbridge\\tavant\\c#\\workspace\\Solid-EmployeeManagmentSystem\\Entities\\Intern.cs",
+              "RelativeToolTip": "Entities\\Intern.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T09:08:15.847Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "IEmployeeService.cs",
               "DocumentMoniker": "E:\\trainings\\skillbridge\\tavant\\c#\\workspace\\Solid-EmployeeManagmentSystem\\Interfaces\\IEmployeeService.cs",
               "RelativeDocumentMoniker": "Interfaces\\IEmployeeService.cs",
@@ -83,107 +259,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "EmployeeController.cs",
-              "DocumentMoniker": "E:\\trainings\\skillbridge\\tavant\\c#\\workspace\\Solid-EmployeeManagmentSystem\\Controllers\\EmployeeController.cs",
-              "RelativeDocumentMoniker": "Controllers\\EmployeeController.cs",
-              "ToolTip": "E:\\trainings\\skillbridge\\tavant\\c#\\workspace\\Solid-EmployeeManagmentSystem\\Controllers\\EmployeeController.cs",
-              "RelativeToolTip": "Controllers\\EmployeeController.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAAwA8AAAAmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-09T09:25:02.214Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "IMeetingAttendee.cs",
-              "DocumentMoniker": "E:\\trainings\\skillbridge\\tavant\\c#\\workspace\\Solid-EmployeeManagmentSystem\\Interfaces\\IMeetingAttendee.cs",
-              "RelativeDocumentMoniker": "Interfaces\\IMeetingAttendee.cs",
-              "ToolTip": "E:\\trainings\\skillbridge\\tavant\\c#\\workspace\\Solid-EmployeeManagmentSystem\\Interfaces\\IMeetingAttendee.cs",
-              "RelativeToolTip": "Interfaces\\IMeetingAttendee.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-09T09:17:16.288Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Manager.cs",
-              "DocumentMoniker": "E:\\trainings\\skillbridge\\tavant\\c#\\workspace\\Solid-EmployeeManagmentSystem\\Entities\\Manager.cs",
-              "RelativeDocumentMoniker": "Entities\\Manager.cs",
-              "ToolTip": "E:\\trainings\\skillbridge\\tavant\\c#\\workspace\\Solid-EmployeeManagmentSystem\\Entities\\Manager.cs",
-              "RelativeToolTip": "Entities\\Manager.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAABmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-09T09:06:27.41Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Employee.cs",
-              "DocumentMoniker": "E:\\trainings\\skillbridge\\tavant\\c#\\workspace\\Solid-EmployeeManagmentSystem\\Entities\\Employee.cs",
-              "RelativeDocumentMoniker": "Entities\\Employee.cs",
-              "ToolTip": "E:\\trainings\\skillbridge\\tavant\\c#\\workspace\\Solid-EmployeeManagmentSystem\\Entities\\Employee.cs",
-              "RelativeToolTip": "Entities\\Employee.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-09T09:02:28.822Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Intern.cs",
-              "DocumentMoniker": "E:\\trainings\\skillbridge\\tavant\\c#\\workspace\\Solid-EmployeeManagmentSystem\\Entities\\Intern.cs",
-              "RelativeDocumentMoniker": "Entities\\Intern.cs",
-              "ToolTip": "E:\\trainings\\skillbridge\\tavant\\c#\\workspace\\Solid-EmployeeManagmentSystem\\Entities\\Intern.cs",
-              "RelativeToolTip": "Entities\\Intern.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAATAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-09T09:08:15.847Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "E:\\trainings\\skillbridge\\tavant\\c#\\workspace\\Solid-EmployeeManagmentSystem\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "E:\\trainings\\skillbridge\\tavant\\c#\\workspace\\Solid-EmployeeManagmentSystem\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-09T08:58:44.9Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "EmployeeService.cs",
-              "DocumentMoniker": "E:\\trainings\\skillbridge\\tavant\\c#\\workspace\\Solid-EmployeeManagmentSystem\\Services\\EmployeeService.cs",
-              "RelativeDocumentMoniker": "Services\\EmployeeService.cs",
-              "ToolTip": "E:\\trainings\\skillbridge\\tavant\\c#\\workspace\\Solid-EmployeeManagmentSystem\\Services\\EmployeeService.cs",
-              "RelativeToolTip": "Services\\EmployeeService.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBgAAABUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-09T09:10:25.889Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 10,
               "Title": "HR.cs",
               "DocumentMoniker": "E:\\trainings\\skillbridge\\tavant\\c#\\workspace\\Solid-EmployeeManagmentSystem\\Entities\\HR.cs",
               "RelativeDocumentMoniker": "Entities\\HR.cs",
               "ToolTip": "E:\\trainings\\skillbridge\\tavant\\c#\\workspace\\Solid-EmployeeManagmentSystem\\Entities\\HR.cs",
               "RelativeToolTip": "Entities\\HR.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAcAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwA4AAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-09T10:34:17.892Z"
+              "WhenOpened": "2025-10-09T10:34:17.892Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 14,
               "Title": "Developer.cs",
               "DocumentMoniker": "E:\\trainings\\skillbridge\\tavant\\c#\\workspace\\Solid-EmployeeManagmentSystem\\Entities\\Developer.cs",
               "RelativeDocumentMoniker": "Entities\\Developer.cs",
@@ -191,11 +280,12 @@
               "RelativeToolTip": "Entities\\Developer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-09T09:04:55.585Z"
+              "WhenOpened": "2025-10-09T09:04:55.585Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 15,
               "Title": "IInterviewable.cs",
               "DocumentMoniker": "E:\\trainings\\skillbridge\\tavant\\c#\\workspace\\Solid-EmployeeManagmentSystem\\Interfaces\\IInterviewable.cs",
               "RelativeDocumentMoniker": "Interfaces\\IInterviewable.cs",
@@ -203,11 +293,12 @@
               "RelativeToolTip": "Interfaces\\IInterviewable.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-09T09:17:45.619Z"
+              "WhenOpened": "2025-10-09T09:17:45.619Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 16,
               "Title": "IManageable.cs",
               "DocumentMoniker": "E:\\trainings\\skillbridge\\tavant\\c#\\workspace\\Solid-EmployeeManagmentSystem\\Interfaces\\IManageable.cs",
               "RelativeDocumentMoniker": "Interfaces\\IManageable.cs",
@@ -215,11 +306,12 @@
               "RelativeToolTip": "Interfaces\\IManageable.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-09T09:16:45.979Z"
+              "WhenOpened": "2025-10-09T09:16:45.979Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 17,
               "Title": "IWorkable.cs",
               "DocumentMoniker": "E:\\trainings\\skillbridge\\tavant\\c#\\workspace\\Solid-EmployeeManagmentSystem\\Interfaces\\IWorkable.cs",
               "RelativeDocumentMoniker": "Interfaces\\IWorkable.cs",
@@ -227,7 +319,8 @@
               "RelativeToolTip": "Interfaces\\IWorkable.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-09T09:15:38.786Z"
+              "WhenOpened": "2025-10-09T09:15:38.786Z",
+              "EditorCaption": ""
             }
           ]
         }

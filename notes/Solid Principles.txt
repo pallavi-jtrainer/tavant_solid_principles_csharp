@@ -256,6 +256,17 @@ DI container
 Microsoft.Extensions.DependencyInjection
 Microsoft.Extensions.Hosting
 
+-----------------------------------------------------------------
+Hands On
+1. Add a DI container to the Case study
+2. Add JsonReportService
+3. Implement a BonusCalculator
+4. Create a ServiceRegistery
+5. Add logging without modifying the EmployeeService
+
+Case study:
+1. Add a new StudentMember
+2. Load discounts dynamically from a json file used as Config
 
 
 
